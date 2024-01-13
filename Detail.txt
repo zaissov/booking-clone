@@ -1,0 +1,11 @@
+[-] Scrape Data w/ Oxylabs, 
+[-] Nextjs, 
+[-] Shadcn, 
+[-] Tailwind, TS
+
+#bibliotecas
+- icon
+[-] npm i lucide-react
+
+
+
